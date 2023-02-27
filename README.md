@@ -15,3 +15,6 @@ whilst simultaneously increasing your skill level in programming overall.
 ## What is the purpose of this repository?
 This repository will be filled with solutions for the Advent of Code challenges using GoLang. Doing this
 should give me an understanding of the language itself, due to the more "Practical" way of learning.
+
+## License
+[**The MIT License: Copyright (c) 2023 Daniel Taylor**](https://github.com/DannyT115/AoC-2022/blob/main/LICENSE)
